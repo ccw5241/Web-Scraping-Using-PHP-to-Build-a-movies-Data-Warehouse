@@ -1,0 +1,144 @@
+Title|Certificate|Runtime|Genres|Rating
+Jojo Rabbit|PG-13|108|Comedy, Drama, War|7.9
+Booksmart|R|102|Comedy|7.2
+Parasite|R|132|Comedy, Drama, Thriller|8.6
+Yesterday|PG-13|116|Comedy, Fantasy, Music|6.8
+Toy Story 4|G|100|Animation, Adventure, Comedy|7.8
+Klaus|PG|96|Animation, Adventure, Comedy|8.2
+Waves|R|135|Drama, Romance, Sport|7.6
+Weathering with You|PG-13|112|Animation, Drama, Family|7.6
+The Peanut Butter Falcon|PG-13|97|Adventure, Comedy, Drama|7.6
+Once Upon a Time... in Hollywood|R|161|Comedy, Drama|7.7
+Marriage Story|R|137|Comedy, Drama, Romance|8
+Us|R|116|Horror, Mystery, Thriller|6.9
+Sound! Euphonium the Movie - Our Promise: A Brand New Day||100|Animation, Drama, Family|7.2
+How to Train Your Dragon: The Hidden World|PG|104|Animation, Action, Adventure|7.5
+Richard Jewell|R|131|Biography, Crime, Drama|7.5
+Alita: Battle Angel|PG-13|122|Action, Adventure, Sci-Fi|7.3
+Good Boys|R|90|Adventure, Comedy|6.7
+Knives Out|PG-13|131|Comedy, Crime, Drama|7.9
+1917|R|119|Drama, War|8.3
+It Chapter Two|R|169|Drama, Fantasy, Horror|6.6
+Ford v Ferrari|PG-13|152|Action, Biography, Drama|8.1
+Honey Boy|R|94|Drama|7.3
+Avengers: Endgame|PG-13|181|Action, Adventure, Drama|8.4
+Frozen II|PG|103|Animation, Adventure, Comedy|7
+Glass|PG-13|129|Drama, Sci-Fi, Thriller|6.7
+Rascal Does Not Dream of Bunny Girl Senpai The Movie||89|Animation, Drama, Family|7.9
+Bombshell|R|109|Biography, Drama|6.8
+The Two Popes|PG-13|125|Comedy, Drama|7.6
+Rocketman|R|121|Biography, Drama, Music|7.3
+Fighting with My Family|PG-13|108|Biography, Comedy, Drama|7.1
+Doctor Sleep|R|152|Drama, Fantasy, Horror|7.4
+Missing Link|PG|93|Animation, Adventure, Comedy|6.7
+The Lighthouse|R|109|Drama, Fantasy, Horror|7.6
+Little Women|PG|135|Drama, Romance|7.9
+Motherless Brooklyn|R|144|Crime, Drama, Mystery|6.8
+Arctic|PG-13|98|Adventure, Drama|6.8
+Joker|R|122|Crime, Drama, Thriller|8.5
+The Farewell|PG|100|Comedy, Drama|7.6
+I Lost My Body|TV-MA|81|Animation, Drama, Fantasy|7.6
+The Lego Movie 2: The Second Part|PG|107|Animation, Action, Adventure|6.6
+Just Mercy|PG-13|137|Biography, Crime, Drama|7.5
+The Irishman|R|209|Biography, Crime, Drama|7.9
+The Lion King|PG|118|Animation, Adventure, Drama|6.9
+Spider-Man: Far from Home|PG-13|129|Action, Adventure, Sci-Fi|7.5
+Apollo 11|G|93|Documentary, History|8.2
+Midsommar|R|148|Drama, Horror, Mystery|7.1
+Dolemite Is My Name|R|118|Biography, Comedy, Drama|7.3
+Shazam!|PG-13|132|Action, Adventure, Comedy|7.1
+Five Feet Apart|PG-13|116|Drama, Romance|7.2
+John Wick: Chapter 3 - Parabellum|R|131|Action, Crime, Thriller|7.5
+A Beautiful Day in the Neighborhood|PG|109|Biography, Drama|7.3
+Uncut Gems|R|135|Crime, Drama, Thriller|7.5
+Pet Sematary|R|101|Horror, Mystery, Thriller|5.7
+Aladdin|PG|128|Adventure, Family, Fantasy|7
+Star Wars: Episode IX - The Rise of Skywalker|PG-13|142|Action, Adventure, Fantasy|6.7
+The Art of Racing in the Rain|PG|109|Comedy, Drama, Romance|7.5
+Judy|PG-13|118|Biography, Drama, Romance|6.9
+Hotel Mumbai|R|123|Action, Drama, History|7.6
+Pokémon Detective Pikachu|PG|104|Adventure, Comedy, Family|6.6
+Long Shot|R|125|Comedy, Romance|6.8
+Harriet|PG-13|125|Action, Biography, Drama|6.4
+Teen Spirit|PG-13|93|Drama, Music|6.1
+Maleficent: Mistress of Evil|PG|119|Adventure, Family, Fantasy|6.7
+The Upside|PG-13|126|Comedy, Drama|6.9
+Captain Marvel|PG-13|123|Action, Adventure, Sci-Fi|6.9
+Ready or Not|R|95|Comedy, Horror, Mystery|6.8
+Ad Astra|PG-13|123|Adventure, Drama, Mystery|6.6
+Gloria Bell|R|102|Comedy, Drama, Romance|6.3
+Saga of Tanya the Evil - The Movie|Not Rated|115|Animation, Action, Adventure|7.6
+The Aeronauts|PG-13|100|Action, Adventure, Biography|6.6
+Late Night|R|102|Comedy, Drama|6.5
+Zombieland: Double Tap|R|99|Action, Comedy, Horror|6.8
+Angel Has Fallen|R|121|Action, Thriller|6.4
+Ne Zha|Not Rated|110|Animation, Action, Adventure|7.5
+Last Christmas|PG-13|103|Comedy, Drama, Romance|6.5
+Ma|R|99|Horror, Mystery, Thriller|5.6
+Dumbo|PG|112|Adventure, Family, Fantasy|6.3
+Tolkien|PG-13|112|Biography, Drama, Romance|6.8
+Abominable|PG|97|Animation, Adventure, Comedy|7
+Downton Abbey|PG|122|Drama, Romance|7.4
+Asako I & II|Not Rated|119|Drama, Romance|6.9
+Okko's Inn|PG|94|Animation, Adventure, Drama|7
+Blinded by the Light|PG-13|118|Comedy, Drama, Music|6.9
+Jumanji: The Next Level|PG-13|123|Action, Adventure, Comedy|6.7
+Terminator: Dark Fate|R|128|Action, Adventure, Sci-Fi|6.3
+Is It Wrong to Try to Pick Up Girls in a Dungeon - Arrow of the Orion||82|Animation, Action, Adventure|6.7
+Fast & Furious Presents: Hobbs & Shaw|PG-13|137|Action, Adventure|6.5
+Penguins|G|76|Documentary, Family|7
+Midway|PG-13|138|Action, Adventure, Drama|6.7
+Men in Black: International|PG-13|114|Action, Adventure, Comedy|5.7
+The Wandering Earth|TV-MA|125|Action, Drama, Sci-Fi|6
+Serenity|R|106|Drama, Mystery, Thriller|5.3
+Scary Stories to Tell in the Dark|PG-13|108|Adventure, Horror, Mystery|6.2
+Lady and the Tramp|PG|103|Adventure, Comedy, Drama|6.3
+The Secret Life of Pets 2|PG|86|Animation, Adventure, Comedy|6.5
+Blackfox||90|Animation, Action, Adventure|6.1
+Anna|R|118|Action, Thriller|6.6
+Spies in Disguise|PG|102|Animation, Adventure, Comedy|6.8
+Godzilla: King of the Monsters|PG-13|132|Action, Adventure, Fantasy|6.1
+Captive State|PG-13|109|Action, Adventure, Drama|6
+Dragon Ball Super: Broly|PG|100|Animation, Action, Adventure|7.9
+Gemini Man|PG-13|117|Action, Adventure, Drama|5.7
+The Goldfinch|R|149|Drama|6.2
+The Addams Family|PG|86|Animation, Comedy, Family|5.8
+Stuber|R|93|Action, Comedy, Crime|6.1
+Cold Pursuit|R|119|Action, Comedy, Crime|6.2
+Greta|R|98|Drama, Mystery, Thriller|6
+The Sun Is Also a Star|PG-13|100|Drama, Music, Romance|5.8
+Hellboy|R|120|Action, Adventure, Fantasy|5.2
+Dora and the Lost City of Gold|PG|102|Adventure, Comedy, Family|6
+Cats|PG|110|Comedy, Drama, Family|2.7
+Charlie's Angels|PG-13|118|Action, Adventure, Comedy|4.6
+Little Monsters|R|93|Comedy, Horror|6.3
+Queen & Slim|R|132|Crime, Drama, Romance|7
+The Mustang|R|96|Drama|6.9
+Escape Room|PG-13|99|Action, Adventure, Horror|6.3
+The Beach Bum|R|95|Comedy|5.5
+Child's Play|R|90|Horror, Sci-Fi|5.8
+The Kid Who Would Be King|PG|120|Action, Adventure, Family|6
+X-Men: Dark Phoenix|PG-13|113|Action, Adventure, Sci-Fi|5.8
+High Life|R|113|Adventure, Drama, Horror|5.9
+Shaft|R|111|Action, Comedy, Crime|6.4
+The Curse of La Llorona|R|93|Horror, Mystery, Thriller|5.3
+Isn't It Romantic|PG-13|89|Comedy, Fantasy, Romance|5.9
+Crawl|R|87|Drama, Horror, Thriller|6.2
+The Kid|R|100|Biography, Drama, Western|5.9
+Miss Bala|PG-13|104|Action, Crime, Drama|5.7
+The Prodigy|R|92|Horror, Thriller|5.8
+Don't Let Go|R|103|Drama, Horror, Mystery|6.1
+See You Yesterday|TV-MA|84|Action, Adventure, Crime|5.1
+Wonder Park|PG|85|Animation, Adventure, Comedy|5.8
+Brightburn|R|90|Drama, Horror, Mystery|6.1
+Triple Frontier|R|125|Action, Adventure, Crime|6.4
+Black and Blue|R|108|Action, Crime, Drama|6.3
+Nancy Drew and the Hidden Staircase|PG|89|Comedy, Crime, Drama|5.7
+Little|PG-13|109|Comedy, Fantasy, Romance|5.4
+The Dead Don't Die|R|104|Comedy, Fantasy, Horror|5.5
+Replicas|PG-13|107|Drama, Sci-Fi, Thriller|5.5
+47 Meters Down: Uncaged|PG-13|90|Adventure, Drama, Horror|5
+Black Christmas|PG-13|92|Horror, Mystery, Thriller|3.2
+Rim of the World|TV-14|98|Action, Adventure, Comedy|5.1
+Rambo: Last Blood|R|89|Action, Adventure, Thriller|6.2
+Playing with Fire|PG|96|Comedy, Family|4.9
